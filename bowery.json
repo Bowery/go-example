@@ -1,0 +1,7 @@
+{
+  "web": {
+    "image": "golang",
+    "path": ".:/opt/gopath/src/go-example",
+    "start": "go run main.go"
+  }
+}
